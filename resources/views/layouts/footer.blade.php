@@ -1,3 +1,20 @@
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <footer class="footer pt-0">
   <div class="row align-items-center justify-content-lg-between">
     <div class="col-lg-6">
@@ -18,8 +35,7 @@
           <a href="http://blog.creative-tim.com" class="nav-link" target="_blank">Blog</a>
         </li>
         <li class="nav-item">
-          <a href="https://github.com/creativetimofficial/argon-dashboard/blob/master/LICENSE.md" class="nav-link"
-            target="_blank">MIT License</a>
+          <a href="https://github.com/creativetimofficial/argon-dashboard/blob/master/LICENSE.md" class="nav-link" target="_blank">MIT License</a>
         </li>
       </ul>
     </div>

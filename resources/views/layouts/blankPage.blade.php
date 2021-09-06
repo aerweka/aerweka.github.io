@@ -59,7 +59,7 @@
     </div>
     <!-- Page content -->
     <div class="container-fluid mt--6">
-
+      @yield('bodyContents')
       <!-- Footer -->
       @include('layouts.footer')
     </div>

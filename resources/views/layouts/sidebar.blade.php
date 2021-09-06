@@ -3,7 +3,7 @@
     <!-- Brand -->
     <div class="sidenav-header  align-items-center">
       <a class="navbar-brand" href="javascript:void(0)">
-        <img src="{{asset('assets/img/bandteng.jpg')}}" class="navbar-brand-img" alt="...">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IPhone_Logo_2016.svg/2560px-IPhone_Logo_2016.svg.png" class="navbar-brand-img" alt="...">
       </a>
     </div>
     <div class="navbar-inner">
